@@ -1,1 +1,3 @@
-# intellij_idea_shortcuts
+### _Windows and Mac shortcuts in IntelliJ IDEA_
+
+some usefull shortcuts in IntelliJ IDEA, for a good developer experience 😎.
